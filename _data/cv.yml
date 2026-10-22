@@ -1,0 +1,65 @@
+cv:
+  name: Pham Minh Tri Hoang
+  label: Master's Student in Electrical Engineering
+  email: tpmhoang@mun.ca
+  location: St. John's, NL, Canada
+  image: ""
+  summary: Master's student at Memorial University of Newfoundland working on wireless communication systems, machine learning, and quantum computing.
+
+  social_networks:
+    - network: LinkedIn
+      username: minhtri2189
+    - network: GitHub
+      username: tpmhoang0910
+
+  sections:
+    Education:
+      - institution: Memorial University of Newfoundland
+        location: St. John's, NL, Canada
+        url: https://www.mun.ca/
+        area: Electrical Engineering
+        studyType: Master's degree (in progress)
+        highlights:
+          - Scholarship recipient, supervised by Prof. Trung Q. Duong, Canada Excellence Research Chair in Next Generation Communication Technologies.
+
+      - institution: Ho Chi Minh City University of Technology, Vietnam National University Ho Chi Minh City
+        location: Ho Chi Minh City, Vietnam
+        url: https://hcmut.edu.vn/
+        area: Advanced Program in Electrical and Electronics Engineering
+        studyType: B.Eng.
+        start_date: 2021-09
+        end_date: 2025-11
+        score: "GPA 3.8/4.0"
+        highlights:
+          - Ranked first in the major.
+
+    Experience:
+      - company: Viettel Semiconductor Technology Division, Viettel Digital Talent Program
+        position: Intern, Analog/Mixed-Signal Circuit Design
+        location: Vietnam
+        start_date: 2024-09
+        end_date: 2024-11
+
+      - company: National Chung Cheng University, TEEP Scholarship Program
+        position: Intern, Analog IC Design
+        location: Chiayi, Taiwan
+        start_date: 2024-06
+        end_date: 2024-08
+
+    Skills:
+      - name: Machine Learning and Data
+        icon: fa-solid fa-chart-line
+        keywords: "Machine learning, data analysis, time series data"
+
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python"
+
+      - name: Circuit Design
+        icon: fa-solid fa-microchip
+        keywords: "Analog IC design, mixed-signal circuit design"
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-tag
+        keywords: "Wireless communication systems, machine learning, quantum computing"
